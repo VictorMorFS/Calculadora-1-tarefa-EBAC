@@ -1,2 +1,14 @@
 # Calculadora-1-tarefa-EBAC
 Essa é minha primeira tarefa no curso de Cientista de dados da EBAC, aonde eles pedem para criar uma calculadora com 4 formas de operações.
+
+# Tarefa
+
+1. Utilize o comando ‘input’ para receber ao menos 2 números de entrada do usuário;
+
+2. Converta os valores recebidos pelo usuário para número inteiro (int) ou ponto flutuante (float);
+
+3. Implemente ao menos 4 operações matemáticas em seu código;
+
+4. Adicione um laço de repetição ou uma condicional. Por exemplo: você pode permitir que o usuário escolha qual operação realizar ou criar um loop que permita ao usuário realizar várias operações consecutivas;
+
+5. Utilize o comando ‘print’ para exibir o resultado da operação matemática.
